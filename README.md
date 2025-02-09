@@ -11,4 +11,9 @@ Chatbot Project uses HTML, CSS, and JavaScript to create an interactive virtual 
 
 
 
+<img width="600" alt="Screenshot 2025-02-09 211257" src="https://github.com/user-attachments/assets/5a5512b7-45cf-4965-af67-bb60f654c5ad" />
+
+
+
+
 
