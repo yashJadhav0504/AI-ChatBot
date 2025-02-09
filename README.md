@@ -2,4 +2,5 @@
 Chatbot Project uses HTML, CSS, and JavaScript to create an interactive virtual assistant. It features a user-friendly interface with a responsive design. JavaScript handles user input and generates automated responses. The chatbot can follow predefined rules or integrate with AI for better interactions. It enhances user engagement with real-time communication.
 
 
-![Chatbot screenshot](https://github.com/user-attachments/assets/10ec0bdb-7b80-47f4-97e3-8c9fea7c14b4)
+<img width="100" alt="Screenshot 2025-02-09 141124" src="https://github.com/user-attachments/assets/d84fbcb9-1708-421e-a2e1-7950405fc4cc" />
+
